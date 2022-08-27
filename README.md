@@ -4,5 +4,6 @@ create your template
 
 replace the public key in mailer.jsx  as stated in in file
 
+npm install
 npm start 
 
