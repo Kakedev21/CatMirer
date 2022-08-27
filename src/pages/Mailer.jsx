@@ -10,7 +10,7 @@ const Mailer = () => {
         "your public key ",
         "your template key",
         e.target,
-        "oEC9ufR81wLWvqIgB"
+        "your ip key"
       )
       .then((res) => {
         toast.success("the cat is on the way to your crush");
