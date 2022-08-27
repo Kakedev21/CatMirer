@@ -7,8 +7,8 @@ const Mailer = () => {
 
     emailjs
       .sendForm(
-        "service_7qwiy8o",
-        "template_3roqbda",
+        "your public key ",
+        "your template key",
         e.target,
         "oEC9ufR81wLWvqIgB"
       )
